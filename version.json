@@ -1,21 +1,6 @@
 {
   "versionCode": 1,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/TUO_USERNAME/radiovoceamica-app/releases/download/v1.0.0/radiovoceamica.apk",
+  "apkUrl": "https://github.com/andreawsita/radiovoceamica-app/releases/download/v1.0.0/radiovoceamica.apk",
   "changelog": "Prima versione ufficiale"
 }
-```
-
----
-
-**3. Carica l'APK nelle Releases**
-
-Ogni volta che vuoi aggiornare: vai su **Releases → Draft a new release** → crea il tag `v1.0.0` → allega il file `.apk` → pubblica. L'APK sarà scaricabile da quell'URL.
-
----
-
-**4. URL raw per leggere il JSON dall'app**
-
-L'URL da usare nel codice per leggere il `version.json` è:
-```
-https://raw.githubusercontent.com/TUO_USERNAME/radiovoceamica-app/main/version.json
