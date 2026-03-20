@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.1.4",
-  "apkUrl": "https://github.com/Andreawsita/radiovoceamica-app/releases/download/v1.1.4/radiovoceamica.apk",
-  "changelog": "Sistemati i tasti e resi piu leggibili anche i testi"
+  "versionCode": 7,
+  "versionName": "1.1.5",
+  "apkUrl": "https://github.com/Andreawsita/radiovoceamica-app/releases/download/v1.1.5/radiovoceamica.apk",
+  "changelog": "Creato tasto per segnalare un eventuale bug nel applicazione"
 }
