@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.1.5",
+  "versionCode": 8,
+  "versionName": "1.1.6",
   "apkUrl": "https://github.com/Andreawsita/radiovoceamica-app/releases/download/v1.1.5/radiovoceamica.apk",
-  "changelog": "Creato tasto per segnalare un eventuale bug nel applicazione"
+  "changelog": "Creato tasto bacheca con eventuali volantini"
 }
