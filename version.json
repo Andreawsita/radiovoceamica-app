@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.6",
-  "apkUrl": "https://github.com/Andreawsita/radiovoceamica-app/releases/download/v1.1.6/radiovoceamica.apk",
-  "changelog": "Creato tasto bacheca con eventuali volantini"
+  "versionCode": 9,
+  "versionName": "1.1.7",
+  "apkUrl": "https://github.com/Andreawsita/radiovoceamica-app/releases/download/v1.1.7/radiovoceamica.apk",
+  "changelog": "Sistemata la bacheca e aggiunta l opzione per condividere la locandina. aggiunta la funziona per riconoscere le canzoni nella sezione radio"
 }
