@@ -3,6 +3,6 @@
   "versionName": "1.2.2",
   "apkUrl": "https://github.com/Andreawsita/radiovoceamica-app/releases/download/v1.2.2/radiovoceamica.apk",
   "changelog": "migliorato il tutto",
-  "locked": true,
-  "lockedBy": "papa ti sto trollando"
+  "locked": false,
+  "lockedBy": "owner"
 }
