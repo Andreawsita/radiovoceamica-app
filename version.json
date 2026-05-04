@@ -3,6 +3,6 @@
   "versionName": "1.2.3",
   "apkUrl": "https://github.com/Andreawsita/radiovoceamica-app/releases/download/v1.2.3/radiovoceamica.apk",
   "changelog": "risolto problema svoraposizzione tasti e audio ",
-  "locked": false,
-  "lockedBy": "suca non farai osint"
+  "locked": true,
+  "lockedBy": "mancanza di soldi"
 }
