@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.2.2",
-  "apkUrl": "https://github.com/Andreawsita/radiovoceamica-app/releases/download/v1.2.2/radiovoceamica.apk",
+  "versionCode": 13,
+  "versionName": "1.2.3",
+  "apkUrl": "https://github.com/Andreawsita/radiovoceamica-app/releases/download/v1.2.3/radiovoceamica.apk",
   "changelog": "risolto problema sovrapposizione tasti e audio",
   "locked": false,
   "lockedBy": "a"
